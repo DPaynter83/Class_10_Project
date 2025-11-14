@@ -359,3 +359,8 @@ try {
    throw           → manually raise an error
    instanceof      → check an object's type (class or error)
    ========================================================= */
+
+   function gitFunction(){
+    console.log("Im making a change on a new branch")
+   }
+   gitFunction();
